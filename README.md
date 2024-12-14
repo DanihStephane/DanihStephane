@@ -17,10 +17,10 @@
 
 <!-- 3D Social Media Badges -->
 <p align="center">
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
+  <a href="https://www.linkedin.com/in/danihstephane" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 15px; box-shadow: 0 5px 15px rgba(0, 119, 181, 0.4);" />
   </a>
-  <a href="https://github.com/yourusername" target="_blank">
+  <a href="https://github.com/DanihStephane" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="border-radius: 15px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.4);" />
   </a>
 </p>
