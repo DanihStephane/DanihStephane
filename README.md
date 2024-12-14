@@ -107,7 +107,7 @@ class FullStackDeveloper {
         <br>Nginx
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/rest-icon.svg" alt="REST" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
         <br>REST API
       </td>
       <td align="center" width="96">
