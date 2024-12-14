@@ -107,8 +107,8 @@ class FullStackDeveloper {
         <br>Nginx
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-        <br>MySQL
+        <img src="https://techstack-generator.vercel.app/rest-icon.svg" alt="REST" width="65" height="65" />
+        <br>REST API
       </td>
       <td align="center" width="96">
         <img src="https://imgs.search.brave.com/bEkTo-Yx5rgPUbJxBW0z_pma_44oNigDxHyC687dOAY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8y/LzI3L1BIUC1sb2dv/LnN2Zw" alt="File:PHP-logo.svg" class="svelte-1hvhtt0 loaded" width="65" >
