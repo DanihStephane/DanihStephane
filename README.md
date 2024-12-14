@@ -5,8 +5,8 @@
 
 <!-- 3D Profile Views Counter -->
 <div align="left">
-  <a href="https://github.com/yourusername">
-    <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://github.com/DanihStephane">
+    <img src="https://komarev.com/ghpvc/?username=DanihStephane&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
 </div>
 
