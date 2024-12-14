@@ -174,8 +174,8 @@ Linux Administration   ████████████████░░░
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=yourusername&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=react&border_radius=10" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=DanihStephane&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanihStephane&theme=react&border_radius=10" alt="GitHub Streak Stats" />
 </div>
 
 <!-- Footer Banner -->
